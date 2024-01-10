@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "482258345081",
+    "project_id": "spending-management-product",
+    "storage_bucket": "spending-management-product.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482258345081:android:d3cae708209640158e08a8",
+        "android_client_info": {
+          "package_name": "com.tnt.spending_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482258345081-hictd4467el755tvfi725p7g3a7ij194.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2HNIbW4xYT1JW1xxGOv7HH3prVAo1QWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482258345081-hictd4467el755tvfi725p7g3a7ij194.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "482258345081-edfvrau9u8iv6308alucegdk2c8pduvr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.expenditureManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
